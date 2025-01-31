@@ -18,7 +18,7 @@ class Program
         Console.WriteLine($"The sum of the numbers is: {sum}");
         Console.WriteLine($"The difference of the numbers is: {difference}");
         Console.WriteLine($"The product of the numbers is: {product}");
-
+        Console.WriteLine($"The quotient of the numbers is: {quotient}");
 
         Console.ReadLine();
 
